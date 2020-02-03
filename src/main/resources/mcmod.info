@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "techcraft",
+      "name": "Tech Craft"
+      "description": "High tehnology for you",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "",
+      "updateUrl": "",
+      "authorList": ["Cadrider"],
+      "credits": "The Forge and FML guys, for making this example",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]
